@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="apXZC0DcTpMQ4_glA_Rj">
+    <mxGraphModel dx="2586" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qr-spVeNHMmCQshMZmpl-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-spVeNHMmCQshMZmpl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-spVeNHMmCQshMZmpl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-spVeNHMmCQshMZmpl-4" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-spVeNHMmCQshMZmpl-8" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 20px; text-align: left; background-color: rgb(248, 249, 250);&quot;&gt;λ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="305" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-spVeNHMmCQshMZmpl-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-spVeNHMmCQshMZmpl-11" value="&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; text-align: left; background-color: rgb(248, 249, 250);&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;μ&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="420" y="305" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qr-spVeNHMmCQshMZmpl-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="qr-spVeNHMmCQshMZmpl-8" target="qr-spVeNHMmCQshMZmpl-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="320" as="sourcePoint" />
+            <mxPoint x="260" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr-spVeNHMmCQshMZmpl-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="319.5" as="sourcePoint" />
+            <mxPoint x="520" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
