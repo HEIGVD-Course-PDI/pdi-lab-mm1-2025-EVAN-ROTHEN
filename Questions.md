@@ -223,6 +223,18 @@ E[T]_k = 1/(k*S0-k*A0) = 1(k*(S0-A0)) ) 1/k * E[T]_0
 
 Donc la règle tient de manière analytique pour M/M/1. Si on multiplie à la fois A et S par k. La latence moyenne se réduit exactement par k. 
 
+6-Plot M/M/1 performance metrics
+--------------------------------
+#### MM1_T
+
+![MM1T](./mm1_t.png)
+
+
+#### MM1_N
+
+![MM1N](./mm1_n.png)
+
+
 
 Conclusion
 ----------
